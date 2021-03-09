@@ -1,0 +1,19 @@
+# Flask and extensions
+flask
+flask-sqlalchemy
+flask-migrate
+flask-restx
+flask-jwt-extended
+
+# Database
+psycopg2-binary
+SQLAlchemy
+
+# Other
+passlib
+
+# Requirements for running the app
+gunicorn
+
+# For environment handling
+python-dotenv

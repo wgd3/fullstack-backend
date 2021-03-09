@@ -1,0 +1,14 @@
+-r prod.txt
+
+# Testing
+pytest
+pytest-coverage
+Faker
+
+# Formatting
+black
+isort
+pylint
+flake8
+flake8-isort
+flake8-docstrings
