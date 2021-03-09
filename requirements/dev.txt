@@ -12,3 +12,6 @@ pylint
 flake8
 flake8-isort
 flake8-docstrings
+
+# Debugging
+flask-shell-ipython

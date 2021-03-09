@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+    db:
+        image: postgres
+        environment:
+            POSTGRES_USER: fullstack
+            POSTGRES_PASSWORD: fullstack
+            POSTGRES_DB: fullstack
+        ports:
+            - "5432:5432"
