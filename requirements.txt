@@ -1,0 +1,3 @@
+# this file simply points to the requirements directory so that Heroku (and
+# others) can run "pip install -r requirements.txt"
+-r requirements/prod.txt
